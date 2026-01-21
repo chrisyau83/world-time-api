@@ -147,6 +147,10 @@ curl -s https://time.now/developer/api/timezone/UTC | jq -r '.datetime'
 
 ---
 
+> 📘 **View all code examples:** Check out our [Integration Cookbook](examples.md) for snippets in Python, Go, Java, Swift, Arduino, and more.
+
+---
+
 ## ❤️ Terms of Service
 
 This API is provided completely free of charge.  
@@ -155,3 +159,4 @@ In exchange, we kindly ask that you provide a link back to Time.Now on your webs
 ```html
 <a href="https://time.now">World Time API by Time.Now</a>
 ```
+
